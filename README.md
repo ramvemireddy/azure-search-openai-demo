@@ -1,6 +1,6 @@
 ---
 name: ChatGPT + Enterprise data
-description: Chat with your data using OpenAI and AI Search.
+description: Chat with BOS data using OpenAI and AI Search.
 languages:
 - python
 - typescript
@@ -333,7 +333,7 @@ The resource group and all the resources will be deleted.
 ### FAQ
 
 <details><a id="compare-samples"></a>
-<summary>How does this sample compare to other Chat with Your Data samples?</summary>
+<summary>How does this sample compare to other Chat with BOS Data samples?</summary>
 
 Another popular repository for this use case is here:
 https://github.com/Microsoft/sample-app-aoai-chatGPT/
